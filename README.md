@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I am currently learning Angular and Java Spring, and I am also contributing to an open-source project called SavicSoft CarStory<br>✉️ You can contact me at darkogligorijevic4@gmail.com<br>🤝 I'm open to collaborating on projects<br>⚡ I like sports and in my spare time I play football</p>
+<p align="left">📚 I am currently learning Angular and Java Spring.<br>🚀Also i am  contributing to an open-source project called SavicSoft CarStory https://github.com/savicsoft-carstory<br>✉️ You can contact me at darkogligorijevic4@gmail.com<br>🤝 I'm open to collaborating on projects<br>⚡ I like sports and in my spare time I play football</p>
+
 
 ###
 
